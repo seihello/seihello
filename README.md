@@ -3,4 +3,4 @@
 - 🏢 Worked for five years as a software developer
 - 🇨🇦 Living in Vancouver
 - 💻 C++, Python, HTML, CSS, JavaScript, TypeScript, React.js, System Modelling
-- 🕺 Interest: Traveling, Photography, Musicals, Kalimba, Baseball
+- 🕺 Traveling, Photography, Musicals, Kalimba, Baseball
