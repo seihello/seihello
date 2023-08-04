@@ -4,4 +4,4 @@
 - 🇨🇦 Living in Vancouver
 - 💻 C++, Python, HTML, CSS, JavaScript, TypeScript, React.js, PHP, System Modelling
 - 🕺 Traveling, Photography, Musicals, Kalimba, Baseball
-- ✈️ Please jump to [my portfolio page](https://seihello.github.io/van-portfolio/)!
+- ✈️ Please jump to [my portfolio page](https://seisuke.info/)!
