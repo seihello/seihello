@@ -2,7 +2,7 @@
 I'm an enthusiastic frontend/backend developer.<br>Please jump to my <a href="https://seisuke.info/">portfolio</a>.
 
 
-## Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y_seisuke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seisuke-yamada-a02140257) 
 
 # Tech Stack:
