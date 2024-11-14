@@ -1,7 +1,7 @@
 # About Me
 Hi! I'm Seisuke, a software developer. After majoring in Computer Science and Engineering at university, I have spent the past six years developing large-scale embedded systems and web applications. Throughout my career, I've focused on building efficient, maintainable systems with a user-first approach.
 
-Please dive into my <a href="https://seisuke.info/">portfolio</a>.
+Please dive into <a href="https://seisuke.info/">my portfolio</a>.
 
 # Tech Stack
 [![Computer Languages](https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css)](https://skillicons.dev)<br/>
